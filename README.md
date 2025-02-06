@@ -1,4 +1,4 @@
-# Ipgeobase
+# Ipgeobase [![Ruby](https://github.com/S1aks/ipgeobase/actions/workflows/main.yml/badge.svg)](https://github.com/S1aks/ipgeobase/actions/workflows/main.yml)
 
 Example ruby gem: work with IP Geolocation API (https://ip-api.com/)
 
